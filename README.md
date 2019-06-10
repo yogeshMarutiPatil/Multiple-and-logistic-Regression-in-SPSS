@@ -1,0 +1,2 @@
+# Multiple-and-logistic-Regression-in-SPSS
+In this project regression model is used that pertains to a summary estimate to how strongly crude death rate is dependenton other factors such as current health expenditure, food safety, physicians density and legislation score and predict the crudedeath rate accordingly.  Also, logistic regression model is used that pertains to a summary estimate in order to predict thetype of education on the bases of sex and age.
